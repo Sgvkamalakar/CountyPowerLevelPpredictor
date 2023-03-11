@@ -9,7 +9,7 @@ The repository would include machine learning models that have been trained on h
 used to train and test these models.
 
 The models included in the repository might use a range of machine learning techniques, such as decision trees, random forests, neural networks, and support vector 
-machines. These models would be evaluated based on their accuracy, precision, recall, and F1 scores to determine which models perform best for country power prediction.
+machines.
 
 The data sets included in the repository would be diverse and comprehensive, covering a range of economic, political, social, and environmental factors that are known 
 to impact a country's power and influence. These data sets might include information on a country's GDP, military strength, population, literacy rate, education level, 
